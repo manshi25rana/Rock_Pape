@@ -1,2 +1,1 @@
-# Rock_Pape
-Game
+This is a simple command-line implementation of the classic Rock Paper Scissors game built using Python. The game allows a user to play against the computer, where both the user and the computer make their selections from Rock, Paper, or Scissors.
